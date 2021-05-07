@@ -4,3 +4,4 @@ The repository contains Simulink models of prominent digital modulation schemes:
 
 Software: MATLAB R2013a and Xilinx ISE (for System Generator usage).
 
+Note: Use Simulink to open the files, any version with System Generator present. For ISE 14.7, the version is R2012/13.
